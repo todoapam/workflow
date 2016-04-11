@@ -1,0 +1,10 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "Primer proyecto con Gulp",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Charly"
+}
